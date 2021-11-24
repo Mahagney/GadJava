@@ -9,7 +9,8 @@ public class Main {
 
         try {
             Pair<Boot> pair1 = new Pair<Boot>(boot1, boot2);
-            Pair<Shoe> pair2 = new Pair<Shoe>(running1, running2);
+            Pair<Shoe> pair2 = new Pair
+                    <Shoe>(running1, running2);
 
         }catch (Exception e){
             e.printStackTrace();
